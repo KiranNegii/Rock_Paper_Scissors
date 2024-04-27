@@ -17,7 +17,8 @@ This project is a simple implementation of the classic Rock Paper Scissors game 
 ## Screenshots 📷
 
 <!-- Include screenshots of your application here -->
-![image](https://github.com/KiranNegii/Rock_Paper_Scissors/assets/163193047/9d54c57a-cfb5-4fdd-8a18-568adc34c811)
+![image](https://github.com/KiranNegii/Rock_Paper_Scissors/assets/163193047/5bee21c6-9d4d-4131-9da0-5f41fe412d72)
+
 
 
 ## Getting Started 🚀
