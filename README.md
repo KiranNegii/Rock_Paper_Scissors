@@ -23,13 +23,14 @@ This project is a simple implementation of the classic Rock Paper Scissors game 
 
 ## Getting Started 🚀
 
+
 Follow these steps to get the Rock Paper Scissors game up and running on your local machine:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/KiranNegii/Rock_Paper_Scissors.git
-Navigate to the project directory:
-bash
-Copy code
-cd rock-paper-scissors
-Open the rock_paper_scissor.html file in your web browser to start playing the game.
+2. Navigate to the project directory:
+   ```bash
+   cd Rock_Paper_Scissors
+
+### Open the rock_paper_scissor.html file in your web browser to start playing the game.
